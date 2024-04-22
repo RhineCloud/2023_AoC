@@ -123,6 +123,7 @@ print(z_visits)
 #         cycles += 1
 
 # find the greatest common divisor with the Euclidian algorithm and calculate the least common multiple instead
+# ... and find out about the default gcd and lcm functions a bit later
 divisor = 1
 a = ghosts.at[0, 'c_length']
 multiple = a
